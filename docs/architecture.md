@@ -1,5 +1,11 @@
 # Data Warehouse Architecture
 
+The following diagram illustrates the overall architecture of the Data Warehouse implementation.
+
+![Data Warehouse Architecture](images/data_warehouse_architecture.png)
+
+# Data Warehouse Architecture
+
 ## Overview
 
 This project implements a modern **Data Warehouse** using the **Medallion Architecture** pattern in PostgreSQL. The architecture is designed to ingest raw data from multiple source systems, progressively improve data quality through layered transformations, and expose business-ready data models for reporting and analytics.
