@@ -261,7 +261,7 @@ This project is licensed under the MIT License.
 
 **Manthan Badwanache**
 
-Just a person learning how to solve problems .
+Just a person learning how to solve problems.
 
 ---
 
