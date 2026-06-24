@@ -162,7 +162,7 @@ Detailed project documentation is available in the **docs** folder.
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/DataWarehouse.git
+git clone https://github.com/ManthanBadwanache/sql-data-warehouse-project.git
 ```
 
 ---
